@@ -1,0 +1,19 @@
+{
+  "name": "freecodecampgroupmanagement",
+  "version": "1.0.0",
+  "description": "A guide and some tools for organizing FreeCodeCamp groups",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/PortableStick/FreeCodeCampGroupManagement.git"
+  },
+  "author": "Gregory Smith",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PortableStick/FreeCodeCampGroupManagement/issues"
+  },
+  "homepage": "https://github.com/PortableStick/FreeCodeCampGroupManagement#readme"
+}
